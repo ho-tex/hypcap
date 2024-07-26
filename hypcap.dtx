@@ -461,7 +461,7 @@ and the derived files
     \capstart
   }{%
     \if@capstart
-      \PackageError{hypcap}{You have forgotten to use \string\caption}%
+      \PackageWarning{hypcap}{You have forgotten to use \string\caption}%
       \global\@capstartfalse
     \else
     \fi
