@@ -2,7 +2,7 @@
 
 * adjusting anchors of captions;
 
-Version: 2016/05/16 v1.12
+Version: 2024-07-26 v1.13
 
 This package tries a solution of the problem with
 hyperref, that links to floats points below the
