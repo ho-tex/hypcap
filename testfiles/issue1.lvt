@@ -1,0 +1,13 @@
+\input{regression-test}
+\documentclass[a4paper]{article}
+
+\usepackage{hyperref}
+\usepackage[figure]{hypcap} 
+
+\begin{document}
+\START
+\begin{figure}[htp]
+\rule{3cm}{3cm}
+\end{figure}
+
+\end{document}

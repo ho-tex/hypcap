@@ -1,0 +1,7 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+Package hypcap Warning: You have forgotten to use \caption on input line ....
+[1
+] (issue1.aux)
+Package rerunfilecheck Info: File `issue1.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
